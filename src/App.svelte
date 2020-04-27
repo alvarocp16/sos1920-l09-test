@@ -4,7 +4,7 @@
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
+	<h1>Hola {name}!!!</h1>
 	<input bind:value={name}>
 	<MyContentTable/>
 </main>
