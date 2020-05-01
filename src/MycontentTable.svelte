@@ -5,7 +5,7 @@
 <main>
 	<table>
 		<tr>
-			<td>My Cell</td>
+			<td>My Cell </td>
 		</tr>
 	</table>
 </main>
